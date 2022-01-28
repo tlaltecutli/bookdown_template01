@@ -1,5 +1,5 @@
 --- 
-title: "PhD Thesis"
+title: "Use of inertial sensors for human movement analysis"
 author: "Zeus Tlaltecutli Dominguez Vega"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
