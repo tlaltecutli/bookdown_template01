@@ -1,9 +1,9 @@
 --- 
-title: "Use of inertial measurement units for human movement analysis"
+title: "Use of inertial measurement units (IMU) for human movement analysis"
 author: "Zeus Tlaltecutli Dominguez Vega"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Chapter one
 
